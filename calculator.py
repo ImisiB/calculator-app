@@ -1,3 +1,5 @@
+print("   HELLO THERE, WELCOME TO CALCULATOR APP. ")
+print("  TYPE IN THE METHOD IN WHICH YOU WANT TO USE:")
 print("1. ADDITION")
 print("2. SUBTRACTION")
 print("3. MULTIPLICATION")
@@ -20,7 +22,26 @@ elif calculator == "3":
 elif calculator == "4":
     num1 = input("Enter first number: ")
     num2 = input("Enter second number: ")
-    print("The sum is:", str(int(num1) / int(num2)))
+    print("The sum is:", str(int(num1) / int(num2)(num2)))
 else:
-    print("               ERROR!!!!!!")
+    print(" ERROR!!!!!!")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 

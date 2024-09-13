@@ -1,4 +1,4 @@
-## calculator-app 
+## calculator-app
 I followed some video tutorials and made a few steps:
 1. I printed the methods in math with numbers before them(1-4): print("1. ?????")
 2. I created a variable and put the method input() in it
